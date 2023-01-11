@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Denniskwg
 - 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ... JavaScript
+- 🌱 I’m currently learning ... JavaScript and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
