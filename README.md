@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Denniskwg
+- 👋 Hi, I’m @Dennis Kamau 
 - 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ... JavaScript and python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Django projects.
 - 📫 How to reach me ...
 
 <!---
